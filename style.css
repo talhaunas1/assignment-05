@@ -1,0 +1,39 @@
+
+
+.bgimg1
+{
+background-image:linear-gradient(rgba(0,0,0,1),rgba(0,0,0,0.5),rgba(0,0,0,0),rgba(0,0,0,0)), url('./images/bigburgere.png');
+/* background-size: 500px 500px; */
+/* width: 2000px; */
+height: 796px;
+/* width: 100%; */
+background-size:contain ;
+background-repeat: no-repeat;
+}
+.logo
+{
+    margin-left: 70px;
+    width: 20%;
+}
+
+.navdown
+{
+    margin-top: 30px;
+}
+.unordr
+{
+    margin-right: 50px;
+    font-size: 20px;
+    /* color: white; */
+}
+.unordr li a{
+    color: white;
+    font-weight: bold;
+    margin: 10px;
+}
+.mainheading
+{
+    color: white;
+    font-size: 54px;
+    font-weight: 500;
+}
