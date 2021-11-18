@@ -12,13 +12,14 @@ background-repeat: no-repeat;
 }
 .logo
 {
-    margin-left: 70px;
+    margin-left: 90px;
     width: 20%;
+
 }
 
 .navdown
 {
-    margin-top: 30px;
+    margin-top: 40px;
 }
 .unordr
 {
@@ -34,6 +35,30 @@ background-repeat: no-repeat;
 .mainheading
 {
     color: white;
-    font-size: 54px;
-    font-weight: 500;
+    font-size: 75px;
+    font-weight: 650;
+    margin-top: 60px;
+    margin-left: -12px;
+    line-height: 80px;
+    /* width: 50%; */
+}
+.para1{
+    color: white;
+    font-size: 23px;
+    font-weight: 200;
+    width: 490px;
+    margin-top: 42px;
+    /* width: 95%; */
+}
+.button{
+    color: white;
+    font-weight: 600;
+    width: 250px;
+    padding: 10px;
+    border-radius: 30px;
+    border-style: none;
+    font-size: 20px;
+    margin-top: 40px;
+    background-color: rgba(216, 47, 17, 0.918);
+
 }
