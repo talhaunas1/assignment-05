@@ -1,12 +1,17 @@
 
-
+body
+{
+    padding: 0px;
+    margin:0px ;
+    
+}
 .bgimg1
 {
 background-image:linear-gradient(rgba(0,0,0,1),rgba(0,0,0,0.5),rgba(0,0,0,0),rgba(0,0,0,0)), url('./images/bigburgere.png');
 /* background-size: 500px 500px; */
 /* width: 2000px; */
 height: 796px;
-/* width: 100%; */
+width: 100%;
 background-size:contain ;
 background-repeat: no-repeat;
 }
@@ -65,7 +70,7 @@ background-repeat: no-repeat;
 .bg2
 {
     background-color: #f6eedf;
-    height: 750px;
+    height: 780px;
     margin-top: -50px;
 }
 .chef
@@ -123,4 +128,178 @@ background-repeat: no-repeat;
     margin-top: -10px;
     margin-left:70px ;
     letter-spacing: 2px;
+}
+.bg3
+{
+    background-color: #f64b3c;
+    height: 650px;
+    margin-top: -50px;
+}
+
+.p3img
+{
+    margin-top: 25%;
+    margin-left: 30%;
+    width: 50%;
+    border-radius: 50%;
+}
+.para3conntex
+{
+    margin-top: 15%;
+    margin-right: -25%;
+}
+.bestbrgr3
+{
+    color: white;
+    font-size: 60px;
+    font-weight: 650;
+
+}
+.para3contex
+{
+    color: white;
+    width: 500px;
+    font-size: 19px;
+    /* letter-spacing: 1px; */
+}
+.button2
+{
+    color: #f64b3c;
+    font-weight: 600;
+    width: 200px;
+    padding: 8px;
+    border-radius: 30px;
+    border-style: none;
+    font-size: 20px;
+    margin-top: 20px;   
+}
+.bg4
+{
+    background-color: #f6eedf;
+    height: 650px;
+    margin-top: -50px;
+}
+
+.bestbrgr4
+{
+    color: #f64b3c;
+    font-size: 60px;
+    font-weight: 650;
+
+}
+.para4contex
+{
+    color: #f64b3c;
+    width: 500px;
+    font-size: 19px;   
+}
+.button3
+{
+    color:white ;
+    background-color:#f64b3c ;
+    font-weight: 600;
+    width: 200px;
+    padding: 8px;
+    border-radius: 30px;
+    border-style: none;
+    font-size: 20px;
+    margin-top: 20px;  
+}
+.p4img
+{
+    margin-top: 25%;
+    width: 60%;
+    border-radius: 50%;
+}
+.para4conntex
+{
+    margin-top: 15%;
+}
+.continr4
+{
+    margin-left: 13%;
+}
+.bg5
+{
+    background-color: #f64b3c;
+    height: 650px;
+    margin-top: -50px; 
+}
+
+.colum5
+{
+    margin-top: 60px;
+}
+
+
+.heading5
+{
+    color: white;
+    text-align: center;
+    font-size: 50px;
+    font-weight: 620;
+    letter-spacing: 1px;
+}
+.para5
+{
+    text-align: center;
+    color: white;
+    font-size: 18px;
+    letter-spacing: 0.3px;
+    width: 680px;
+}
+/* .circle1{
+    color: white;
+    border: 2px solid white;
+    border-radius: 50%;
+    width: 210px;
+    height: 210px;
+    margin-left: 180px;
+    
+
+} */
+/* .circle{ */
+    /* color: white; */
+    /* border: 2px solid white;
+    border-radius: 50%;
+    width: 210px;
+    height: 210px;
+    margin-left: 180px; */
+    /* text-align: center; */
+    /* margin-left: 50px; */
+    /* width: 50%; */
+
+/* } */
+.circlerow
+{
+    margin-top: 50px;
+}
+.circle{
+    /* color: white; */
+    border: 2px solid white;
+    border-radius: 50%;
+    width: 210px;
+    height: 210px;
+    margin-left: 180px;
+    /* width: 50%; */
+
+}
+.setcircle
+{
+    color: white;
+    text-align: center;
+    margin-top: 55px;
+    /* font-size: 20px ; */
+}
+.setcircle h3
+{
+ font-weight: 650;
+ font-size: 45px;   
+}
+.setcircle p
+{
+    font-size: 23px;
+    letter-spacing: 2px;
+    font-weight: 500;
+
 }
